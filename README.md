@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-I'm a software engineering graduate who builds end-to-end products — from Android apps to full-stack web platforms to machine learning pipelines with explainable AI. I care about shipping software that solves real problems, whether that's reducing food waste, helping candidates prepare for interviews, or making HR decisions more transparent and data-driven.
+I'm a software engineer who builds end-to-end products — from Android apps to full-stack web platforms to machine learning pipelines with explainable AI. I care about shipping software that solves real problems, whether that's reducing food waste, helping candidates prepare for interviews, or making HR decisions more transparent and data-driven.
 
 ---
 
